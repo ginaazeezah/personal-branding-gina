@@ -1,0 +1,237 @@
+.portfolio,
+.portfolio * {
+  box-sizing: border-box;
+}
+.portfolio {
+  background: #ffffff;
+  height: 5534px;
+  position: relative;
+}
+.footer {
+  width: 1440px;
+  height: 208px;
+  position: static;
+}
+.background {
+  background: #d8d8d8;
+  opacity: 0.22;
+  width: 1440px;
+  height: 208px;
+  position: absolute;
+  left: 0px;
+  top: 5326px;
+}
+.john-doe-2020 {
+  color: #6d6d6d;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.39px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 5438px;
+}
+.designed-in-figma {
+  color: #6d6d6d;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.39px;
+  font-weight: 400;
+  opacity: 0.8;
+  position: absolute;
+  left: 467px;
+  top: 5386px;
+}
+.about {
+  width: 1177px;
+  height: 2405.54px;
+  position: static;
+}
+.para-1 {
+  color: #6d6d6d;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 36px;
+  letter-spacing: 0.39px;
+  font-weight: 400;
+  position: absolute;
+  left: 85px;
+  top: 3997px;
+  width: 1177px;
+}
+.frame-1 {
+  width: 102.33px;
+  height: 244.97px;
+  position: absolute;
+  left: 964.89px;
+  top: 2815.46px;
+  overflow: hidden;
+}
+.about-title {
+  color: #999999;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 96px;
+  font-weight: 700;
+  position: absolute;
+  left: 85px;
+  top: 3624px;
+  width: 343px;
+  height: 321px;
+}
+.projects {
+  width: 1169.46px;
+  height: 1589.24px;
+  position: static;
+}
+.project-1 {
+  width: 485.56px;
+  height: 1296.96px;
+  position: static;
+}
+.para-12 {
+  color: #6d6d6d;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 33px;
+  letter-spacing: 0.39px;
+  font-weight: 400;
+  position: absolute;
+  left: 776px;
+  top: 2196.44px;
+  width: 485.56px;
+  height: 1296.96px;
+  transform-origin: 0 0;
+  transform: rotate(-0.019deg) scale(1, 1);
+}
+.projects-title {
+  color: #999999;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  position: absolute;
+  left: 92px;
+  top: 1904.4px;
+  width: 359.16px;
+  height: 172.04px;
+  transform-origin: 0 0;
+  transform: rotate(-0.019deg) scale(1, 1);
+}
+.header {
+  width: 1399px;
+  height: 1566px;
+  position: static;
+}
+.background2 {
+  background: #d8d8d8;
+  opacity: 0.22;
+  width: 1200px;
+  height: 870px;
+  position: absolute;
+  left: 240px;
+  top: 8px;
+}
+.button-cv {
+  width: 631px;
+  height: 133px;
+  position: static;
+}
+.button {
+  background: #ffe8e8;
+  width: 558px;
+  height: 107px;
+  position: absolute;
+  left: 776px;
+  top: 690px;
+}
+.download-cv {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 40px;
+  letter-spacing: 8.3px;
+  font-weight: 500;
+  opacity: 0.6;
+  position: absolute;
+  left: 807px;
+  top: 721px;
+  width: 600px;
+  height: 102px;
+}
+.paragraph {
+  color: #6d6d6d;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 36px;
+  letter-spacing: 0.39px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 1067px;
+  width: 1221px;
+  height: 507px;
+}
+.line {
+  background: #d8d8d8;
+  width: 1px;
+  height: 238px;
+  position: absolute;
+  left: 693px;
+  top: 324px;
+}
+.name {
+  width: 966px;
+  height: 670px;
+  position: static;
+}
+.i-m-john {
+  color: #999999;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 128px;
+  font-weight: 700;
+  position: absolute;
+  left: 312px;
+  top: 302px;
+  width: 966px;
+  height: 454px;
+}
+.hello {
+  color: #999999;
+  text-align: left;
+  position: absolute;
+  left: 312px;
+  top: 86px;
+  width: 382px;
+  height: 167px;
+}
+.hello-span {
+  color: #999999;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 128px;
+  font-weight: 700;
+}
+.hello-span2 {
+  color: #999999;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+}
+.whats-app-image-2025-01-08-at-16-57-09-d-60-c-0-aec-1 {
+  width: 628px;
+  height: 1365px;
+  position: absolute;
+  left: 92px;
+  top: 2137px;
+  object-fit: cover;
+}
